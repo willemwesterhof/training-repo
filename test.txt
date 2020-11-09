@@ -1,4 +1,5 @@
 test file line #1
-
+added line #2 back in the file
 test file line #3
-test file line #4
+
+test file line #5
